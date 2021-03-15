@@ -1,6 +1,6 @@
 //Write code below this line
-function functionPrintInfo(parametar1, parametar2) {
-console.log(parametar1, parametar2);
+function functionPrintInfo(name, age) {
+console.log(name, age);
 
 }
    functionPrintInfo("John", 23); 
